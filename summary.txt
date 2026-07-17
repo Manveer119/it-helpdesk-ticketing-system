@@ -1,0 +1,36 @@
+============================================================
+IT HELP DESK - TICKET METRICS SUMMARY
+============================================================
+
+Ticket Volume by Category
+----------------------------------------
+  Email/M365                   14
+  Printer                      11
+  Asset Request                9
+  Hardware                     9
+  Network                      6
+  Software Install             5
+  Account/Active Directory     3
+  VPN/Remote Access            3
+
+Average Resolution Time by Priority (hours)
+----------------------------------------
+  Critical   2.4 hrs
+  High       6.3 hrs
+  Medium     24.3 hrs
+  Low        54.2 hrs
+
+Ticket Volume by Month
+----------------------------------------
+  2026-04    16
+  2026-05    17
+  2026-06    20
+  2026-07    7
+
+Current Queue Snapshot
+----------------------------------------
+  Total tickets:  60
+  Open/active:    8
+  Closed:         52
+
+Charts saved to reports/: volume_by_category.png, resolution_time_by_priority.png, volume_by_month.png
